@@ -1,10 +1,6 @@
 {
   "entryPoints": [
-    "./src/mapAndReduce.ts",
-    "./src/addMapReduce.ts",
-    "./src/subMapReduce.ts",
-    "./src/prodMapReduce.ts",
-    "./src/divMapReduce.ts"
+    "./src/ejercicio.ts"
   ],
   "out": "./docs"
 }
